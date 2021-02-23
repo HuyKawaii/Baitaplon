@@ -1,2 +1,2 @@
 Trương Anh Huy 20200287 ICT-01 k65
-Trần Thế Thành 20200596 ICT-01 k65
+Trần Thế Thành 20200596 ICT-02 k65
