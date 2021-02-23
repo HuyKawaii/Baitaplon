@@ -11,7 +11,6 @@ int main(){
   while (feof(inp) == 0){
     fscanf(inp, "%d", &n);
     fscanf(inp, "%d", &k);
-    printf("%d %d\n", n, k);
     com = 1;
     for (int i = 1; i <= k; i++)
       com = com * (n-i+1) /i;
